@@ -33,8 +33,8 @@ pip install requests psutil pyautogui pyperclip sounddevice numpy wave pynput
 ## 🛠️ Installation & Setup
 1. Clone the repository:
 ```sh
-git clone https://github.com/svn23/python_rce.git
-cd your-repo
+git clone --branch Version-1 https://github.com/svn23/python_rce.git
+cd python_rce
 ```
 2. Install dependencies:
 ```sh
