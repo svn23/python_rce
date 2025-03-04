@@ -1,8 +1,0 @@
-requests
-psutil
-pyperclip
-pyautogui
-sounddevice
-numpy
-pynput
-wave
