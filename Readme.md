@@ -7,6 +7,8 @@
 ![GitHub license](https://img.shields.io/github/license/svn23/python_rce)
 ![GitHub top language](https://img.shields.io/github/languages/top/svn23/python_rce)
 ![Python version](https://img.shields.io/badge/Python-3.x-blue.svg)
+![GitHub branches](https://img.shields.io/github/branches/svn23/python_rce)
+
 
 ## 🚀 About This Project
 
