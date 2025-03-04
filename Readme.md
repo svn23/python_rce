@@ -1,4 +1,4 @@
-# ⚡ Remote Code Execution (RCE) Bot 
+# ⚡ Remote Code Execution (RCE) Bot Version 1
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/svn23/python_rce)
 ![GitHub issues](https://img.shields.io/github/issues/svn23/python_rce)
