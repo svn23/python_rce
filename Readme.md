@@ -1,10 +1,10 @@
 # ⚡ Remote Code Execution (RCE) Bot 
 
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/your-repo)
-![GitHub issues](https://img.shields.io/github/issues/your-username/your-repo)
-![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/your-repo?style=social)
-![GitHub license](https://img.shields.io/github/license/your-username/your-repo)
+![GitHub last commit](https://img.shields.io/github/last-commit/svn23/python_rce)
+![GitHub issues](https://img.shields.io/github/issues/svn23/python_rce)
+![GitHub stars](https://img.shields.io/github/stars/svn23/python_rce?style=social)
+![GitHub forks](https://img.shields.io/github/forks/svn23/python_rce?style=social)
+![GitHub license](https://img.shields.io/github/license/svn23/python_rce)
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20MacOS-orange)
 ![Security](https://img.shields.io/badge/Security-Penetration%20Testing-red)
@@ -33,7 +33,7 @@ pip install requests psutil pyautogui pyperclip sounddevice numpy wave pynput
 ## 🛠️ Installation & Setup
 1. Clone the repository:
 ```sh
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/svn23/python_rce.git
 cd your-repo
 ```
 2. Install dependencies:
