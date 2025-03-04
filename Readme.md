@@ -1,4 +1,4 @@
-# 🔥 RCE_PY (Remote Command Execution Bot)
+# 🔥 RCE (Remote Command Execution Bot)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/svn23/python_rce)
 ![GitHub issues](https://img.shields.io/github/issues/svn23/python_rce)
@@ -32,7 +32,7 @@ If you want to check out a specific version, use:
 
 ```powershell
 git checkout <branch-name>
-
+```
 ## ⚠️ Legal Disclaimer
 **This tool is intended for educational and authorized security research purposes only.** Unauthorized use of this tool on any system without permission is illegal and may result in severe consequences. Use responsibly!
 
